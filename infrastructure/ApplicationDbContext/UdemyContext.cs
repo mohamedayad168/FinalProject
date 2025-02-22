@@ -2,7 +2,7 @@
 
 namespace API.infrastructure.ApplicationDbContext
 {
-	internal class UdemyContext : DbContext
+	public class UdemyContext : DbContext
 	{
 
 	}

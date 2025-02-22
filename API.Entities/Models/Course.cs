@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace API.Entities.Models
 {
-	internal class Course
+	public class Course
 	{
 	}
 }
